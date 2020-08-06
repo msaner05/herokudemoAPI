@@ -38,5 +38,9 @@
   "empdetail": {
     "dataSource": "empdb",
     "public": true
+  },
+  "pushnotifications": {
+    "dataSource": "empdb",
+    "public": true
   }
 }
