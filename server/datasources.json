@@ -3,15 +3,15 @@
     "name": "db",
     "connector": "memory"
   },
- 
   "empdb": {
-    "host": "ec2-52-204-20-42.compute-1.amazonaws.com",
+    "host": "52.146.45.18",
     "port": 5432,
-    "url": "postgres://rbnuownwxckbaa:216b8765634ee0f9c90adb047dd97d5b63bf548bbad3c92077f5baedd9d2b6b2@ec2-52-204-20-42.compute-1.amazonaws.com:5432/dblbb8b2vp1q0l",
-    "database": "dblbb8b2vp1q0l",
-    "password": "216b8765634ee0f9c90adb047dd97d5b63bf548bbad3c92077f5baedd9d2b6b2",
+    "url": "postgres://postgres:Blueflame@123@52.146.45.18:5432/TestDB",
+    "database": "TestDB",
+    "password": "Blueflame@123",
     "name": "empdb",
-    "user": "rbnuownwxckbaa",
+    "user": "postgres",
     "connector": "postgresql"
   }
+  
 }
