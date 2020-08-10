@@ -6,12 +6,11 @@
   "empdb": {
     "host": "52.146.45.18",
     "port": 5432,
-    "url": "",
+    "url": "postgres://postgres:admin@52.146.45.18:5432/TestDB",
     "database": "TestDB",
     "password": "Blueflame@123",
     "name": "empdb",
     "user": "postgres",
     "connector": "postgresql"
   }
-  
 }
