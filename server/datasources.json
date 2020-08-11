@@ -6,7 +6,7 @@
   "empdb": {
     "host": "52.146.45.18",
     "port": 5432,
-    "url": "",
+    "url": "postgres://pmadmin:Blueflame@123@52.146.45.18:5432/TestDB",
     "database": "TestDB",
     "password": "Blueflame@123",
     "name": "empdb",
