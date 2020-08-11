@@ -6,9 +6,9 @@
   "empdb": {
     "host": "52.146.45.18",
     "port": 5432,
-    "url": "postgres://postgres:Blueflame@123@52.146.45.18:5432/TestDB",
+    "url": "postgres://postgres:Blueflame123@52.146.45.18:5432/TestDB",
     "database": "TestDB",
-    "password": "Blueflame@123",
+    "password": "Blueflame123",
     "name": "empdb",
     "user": "pgsadmin",
     "connector": "postgresql"
