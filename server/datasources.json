@@ -4,14 +4,13 @@
     "connector": "memory"
   },
   "empdb": {
-    "host": "ec2-34-238-26-109.compute-1.amazonaws.com",
+    "host": "52.146.45.18",
     "port": 5432,
-    "url": "postgres://brvlugqjimgpwt:6700f8d28881e428da8d35fb3abd3c96b18a5f7d4022fb0862bd72f82d33a65d@ec2-34-238-26-109.compute-1.amazonaws.com:5432/ddr41ptprqdupg",
-    "database": "ddr41ptprqdupg",
-    "password": "6700f8d28881e428da8d35fb3abd3c96b18a5f7d4022fb0862bd72f82d33a65d",
+    "url": "postgres://pocPGadmin:bfl123@52.146.45.18:5432/RestotedDB?ssl=true",
+    "database": "RestotedDB",
+    "password": "bfl123",
     "name": "empdb",
-    "user": "brvlugqjimgpwt",
+    "user": "pocPGadmin",
     "connector": "postgresql"
   }
-  
 }
